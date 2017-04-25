@@ -7,12 +7,12 @@ var h2 = document.createElement('h2');
 var h3 = document.createElement('h3');
 var contenedorImagenes = document.createElement('section');
 //asignar estilos a div
-div.style.border = "1px solid red";
-div.style.height = "200px";
-div.style.width = "1000px";
-div.style.position = "absolute";
-div.style.marginLeft = "200px";
-div.style.marginTop = "300px";
+// div.style.border = "1px solid red";
+// div.style.height = "200px";
+// div.style.width = "1000px";
+// div.style.position = "absolute";
+// div.style.marginLeft = "200px";
+// div.style.marginTop = "300px";
 // asignar estilos a h2
 h2.className = "h2Dz";
 h2.innerText = "Designed for everyone,everywhere.";
@@ -35,7 +35,7 @@ contenedorImagenes.style.position = "absolute";
 contenedorImagenes.style.marginTop = "300px";
 
 
-//crear div para las imagenes 
+//crear div para las imagenes
 var cuadrosImagenes = function(ancho,alto,posicion) {
 	var cuadro = document.createElement('div');
 	cuadro.className = "cuadroImg";
