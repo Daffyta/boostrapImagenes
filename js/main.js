@@ -12,6 +12,9 @@ div.style.width = "1000px";
 div.style.position = "absolute";
 div.style.marginLeft = "200px";
 div.style.marginTop = "300px";
+// div.style.border = "1px solid red";
+// div.style.height = "500px";
+// div.style.width = "500px";
 // asignar estilos a h2
 h2.className = "h2Dz";
 h2.innerText = "Designed for everyone,everywhere.";
