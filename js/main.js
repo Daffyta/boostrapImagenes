@@ -27,7 +27,7 @@ h3.innerText = "Bootstrap makes front-end web development faster and easier. It'
 // h3.style.textAlign = "center";
 // h3.style.fontSize = "20px";
 // h3.style.fontFamily = "arial,verdana";
-//crear div para las imagenes 
+//crear div para las imagenes
 // var cuadrosImagenes = function(ancho,alto,posicion) {
 
 // }
